@@ -1,2 +1,3 @@
-Hello im John :)
-You contact me at [linkedin](https://www.linkedin.com/in/johnm28/) here!
+__Hello im John :)__
+<br>
+You can check my **[LinkedIn](https://www.linkedin.com/in/johnm28/)** here!
